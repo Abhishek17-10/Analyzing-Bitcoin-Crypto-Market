@@ -22,8 +22,8 @@ This project analyzes the market capitalization of Bitcoin and other cryptocurre
 ## ⚡ Installation
 1️⃣ Clone the repository:
    ```sh
-   git clone <repository_url>
-   cd <repository_name>
+   git clone https://github.com/Abhishek17-10/Analyzing-Bitcoin-Crypto-Market
+   cd Exploring the Bitcoin Cryptocurrency Market
    ```
 2️⃣ Install the required dependencies:
    ```sh
